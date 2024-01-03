@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Jhordy Gavinchu",
   "description": "A project for jhordyess",
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "npm"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
